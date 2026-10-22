@@ -40,7 +40,6 @@ Data comes from a course-provided web simulator. We submitted experimental desig
 
 ```
 ├── final_project.ipynb   # Analysis notebook
-├── data/                 # Simulator output CSVs for each experiment
 ├── MSDS692_Final.pdf            # Final written report
 └── README.md
 ```
