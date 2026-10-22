@@ -1,4 +1,4 @@
-# Streaming Homepage Optimization via Sequential Experimentation
+# Streaming Homepage Optimization with Factorial Experiments
 
 Sequential factorial experiments on a simulated streaming platform ("Webflix") to find the homepage UI settings that minimize user browse time.
 
